@@ -27,7 +27,7 @@ if (nav) {
   if (themeId === "Inverted") {
     LogoUrl = "/assets/media/favicon/main-inverted.png";
   }
-  
+}
 
 // Themes
 const themeid = localStorage.getItem("theme");
